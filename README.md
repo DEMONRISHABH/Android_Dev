@@ -20,9 +20,15 @@
 >
 🍁 *Adapters*
 >
+🍁 *Shared Preferences*
+>
 🍁 *ListView*
 >
 🍁 *Live Data + View Model + DataBinding*
+>
+🍁 *Paging Library*
+>
+🍁 *Glide Library*
 >
 🍁 *MVVM architecture*
 >
